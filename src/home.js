@@ -7,7 +7,7 @@ export default class Home extends Component {
       <Route
         exact
         path="/"
-        render={() => (window.location = "https://www.facebook.com/ ")}
+        render={() => (window.location = "https://www.facebook.com/xogerard ")}
       />
     );
   }
